@@ -12,6 +12,14 @@ angular.module('firstApp', [
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
+      .when('/pagination-demo', {
+        templateUrl: 'views/paginationDemo.html',
+        controller: 'MainCtrl'
+      })
+      .when('/datepicker-demo', {
+        templateUrl: 'views/datepicker-demo.html',
+        controller: 'DatepickerDemoCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });

@@ -26,7 +26,16 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+            <state line="9" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datepickerDirective.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/spec/directives/datepickerDirective.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="6" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3320">
               <folding />
             </state>
           </provider>
@@ -35,43 +44,34 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="9" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
+            <state line="18" column="33" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="uniqueEmailDirective.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/spec/directives/uniqueEmailDirective.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
+            <state line="7" column="58" selection-start="181" selection-end="188" vertical-scroll-proportion="-2.9166667" vertical-offset="0" max-vertical-offset="1520">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="robots.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/robots.txt">
+      <file leaf-file-name="myUser.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/myUser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+            <state line="3" column="3" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <file leaf-file-name="mockUser.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/spec/services/mockUser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="19" selection-start="3189" selection-end="3189" vertical-scroll-proportion="-6.6666665" vertical-offset="1680" max-vertical-offset="7780">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="43" selection-start="1414" selection-end="1458" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+            <state line="9" column="0" selection-start="167" selection-end="167" vertical-scroll-proportion="0.57877815" vertical-offset="0" max-vertical-offset="500">
               <folding />
             </state>
           </provider>
@@ -80,34 +80,34 @@
       <file leaf-file-name="karma.conf.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/karma.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="25" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="1220">
+            <state line="16" column="40" selection-start="572" selection-end="576" vertical-scroll-proportion="-2.1458333" vertical-offset="197" max-vertical-offset="1240">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bower.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="29" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="500">
+            <state line="5" column="29" selection-start="118" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/views/main.html">
+      <file leaf-file-name="datepicker-demo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/spec/controllers/datepicker-demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="42" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="660">
+            <state line="8" column="10" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <file leaf-file-name="paginationDirective.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/spec/directives/paginationDirective.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="57" selection-start="475" selection-end="475" vertical-scroll-proportion="0.43541363" vertical-offset="0" max-vertical-offset="689">
+            <state line="61" column="0" selection-start="2123" selection-end="2123" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2380">
               <folding />
             </state>
           </provider>
@@ -125,10 +125,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/partials/main.html" />
         <option value="$PROJECT_DIR$/dist/views/index.html" />
-        <option value="$PROJECT_DIR$/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/.tmp/concat/scripts/a.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/test/spec/controllers/main.js" />
@@ -137,7 +134,22 @@
         <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/dist/views/main.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/scripts/directives/paginationDirective.js" />
+        <option value="$PROJECT_DIR$/test/spec/directives/paginationDirective.js" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/views/paginationDemo.html" />
+        <option value="$PROJECT_DIR$/app/scripts/directives/datepickerDirective.js" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/karma.conf.js" />
+        <option value="$PROJECT_DIR$/test/spec/directives/datepickerDirective.js" />
+        <option value="$PROJECT_DIR$/app/views/datepicker-demo.html" />
         <option value="$PROJECT_DIR$/app/views/main.html" />
+        <option value="$PROJECT_DIR$/app/scripts/directives/uniqueEmailDirective.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/services/mockUser.js" />
+        <option value="$PROJECT_DIR$/test/spec/directives/uniqueEmailDirective.js" />
+        <option value="$PROJECT_DIR$/app/scripts/services/myUser.js" />
+        <option value="$PROJECT_DIR$/test/spec/services/mockUser.js" />
       </list>
     </option>
   </component>
@@ -176,6 +188,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -190,7 +203,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="firstAngularJS" />
+              <option name="myItemId" value="myTestWithAngular" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -200,7 +213,83 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="firstAngularJS" />
+              <option name="myItemId" value="myTestWithAngular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTestWithAngular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTestWithAngular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTestWithAngular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTestWithAngular" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -214,7 +303,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="firstAngularJS" />
+              <option name="myItemId" value="myTestWithAngular" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -222,13 +311,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTestWithAngular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTestWithAngular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTestWithAngular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,18 +402,10 @@
       <recent name="F:\prg_home\prg3\test\app" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="Karma.test">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/test/app/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -272,8 +418,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="$PROJECT_DIR$/karma.conf.js">
-      <envs />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -283,6 +433,10 @@
       <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="$PROJECT_DIR$/karma.conf.js">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
@@ -290,8 +444,15 @@
       <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="test" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="$PROJECT_DIR$/karma.conf.js">
+      <envs />
+      <RunnerSettings RunnerId="KarmaJavaScriptTestRunnerRun" />
+      <ConfigurationWrapper RunnerId="KarmaJavaScriptTestRunnerRun" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="Karma.test" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -333,19 +494,19 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24445851" sideWeight="0.6841244" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18809374" sideWeight="0.6841244" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31587562" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48123324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -365,6 +526,48 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="19" selection-start="3189" selection-end="3189" vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="7780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="43" selection-start="1414" selection-end="1458" vertical-scroll-proportion="0.0" vertical-offset="880" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="25" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="1240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="29" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="42" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="57" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="53" selection-start="774" selection-end="774" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1100">
@@ -440,16 +643,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="716" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/controllers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="716" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="58" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1120" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/angular-route/angular-route.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18340" />
@@ -479,13 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/views/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="42" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/styles/01dd36e9.main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="56463" selection-start="56681" selection-end="56683" vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="280">
@@ -493,58 +679,209 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
+    <entry file="file://$PROJECT_DIR$/dist/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="29" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="500">
+        <state line="22" column="8" selection-start="621" selection-end="621" vertical-scroll-proportion="-15.172414" vertical-offset="0" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="43" selection-start="1414" selection-end="1458" vertical-scroll-proportion="0.0" vertical-offset="233" max-vertical-offset="1200">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="25" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="1220">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1702" selection-end="1702" vertical-scroll-proportion="0.56458634" vertical-offset="411" max-vertical-offset="1100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="718">
+        <state line="21" column="37" selection-start="650" selection-end="650" vertical-scroll-proportion="2.0689654" vertical-offset="480" max-vertical-offset="1200">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="19" selection-start="3189" selection-end="3189" vertical-scroll-proportion="-6.6666665" vertical-offset="1680" max-vertical-offset="7780">
+        <state line="109" column="21" selection-start="3494" selection-end="3494" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="7780">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/app/views/paginationDemo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
+        <state line="5" column="6" selection-start="389" selection-end="389" vertical-scroll-proportion="-3.4482758" vertical-offset="0" max-vertical-offset="220">
+          <folding>
+            <marker date="1398044518678" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="24" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="33" selection-start="519" selection-end="553" vertical-scroll-proportion="-7.448276" vertical-offset="184" max-vertical-offset="560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="21" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/jquery-ui/ui/jquery-ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7618" column="13" selection-start="219366" selection-end="219366" vertical-scroll-proportion="-5.3333335" vertical-offset="152104" max-vertical-offset="300180">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195900">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/directives/paginationDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="50" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="16" selection-start="146" selection-end="146" vertical-scroll-proportion="-5.5172415" vertical-offset="0" max-vertical-offset="820">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/datepicker-demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="87" selection-end="87" vertical-scroll-proportion="-2.0689654" vertical-offset="0" max-vertical-offset="180">
+          <folding>
+            <marker date="1398046868792" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/datepicker-demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="57" selection-start="475" selection-end="475" vertical-scroll-proportion="0.43541363" vertical-offset="0" max-vertical-offset="689">
+        <state line="12" column="26" selection-start="445" selection-end="445" vertical-scroll-proportion="-8.275862" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/directives/datepickerDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="45" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="35" selection-start="2108" selection-end="2108" vertical-scroll-proportion="-11.75862" vertical-offset="739" max-vertical-offset="1280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/directives/uniqueEmailDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="34" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding>
+            <marker date="1398050810185" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1398050810185" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/controllers/datepicker-demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/directives/datepickerDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="6" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/directives/paginationDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="0" selection-start="2123" selection-end="2123" vertical-scroll-proportion="0.0" vertical-offset="1077" max-vertical-offset="2380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="118" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="33" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="40" selection-start="572" selection-end="576" vertical-scroll-proportion="-2.1458333" vertical-offset="197" max-vertical-offset="1240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/myUser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="3" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/directives/uniqueEmailDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="58" selection-start="181" selection-end="188" vertical-scroll-proportion="-2.9166667" vertical-offset="0" max-vertical-offset="1520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/services/mockUser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="167" selection-end="167" vertical-scroll-proportion="0.57877815" vertical-offset="0" max-vertical-offset="500">
           <folding />
         </state>
       </provider>
